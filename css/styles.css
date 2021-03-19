@@ -3956,6 +3956,7 @@ input[type=button].btn-block {
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+  background-image: url('https://besthqwallpapers.com/Uploads/24-5-2019/93313/thumb2-purple-smoke-background-dark-purple-waves-background-purple-abstract-waves-3d-waves-background.jpg');
 }
 .navbar .container,
 .navbar .container-fluid,
@@ -10019,6 +10020,7 @@ p.lead {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
+  
 }
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
